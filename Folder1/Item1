@@ -8,5 +8,5 @@ created new folder (M123456) and this file (Item1)
 
 -changed the foldername from M123456 to Folder1
 -after changing the foldername to Folder1 it appears in the repository in EDU171010-PROJECTMANAGEMENT
--Item1 is also in the Folder1
+-Item1 is also in Folder1
 -but the folder M123456 is still in the repository and Item2 and Item3 are still in it
